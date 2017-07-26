@@ -1,2 +1,2 @@
 # baike_spider
-imooc的python爬虫入门课程：python百科词条1000条
+python3爬虫入门课程：根据关键字从百度百科爬数据
